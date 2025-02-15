@@ -1,0 +1,70 @@
+WPL Data Summary
+===============
+
+Total Matches: 44
+Season: 2023
+Date Range: 2023-03-04 to 2024-03-17
+
+Teams Performance:
+------------------
+Delhi Capitals:
+- Matches played: 18
+- Matches won: 12
+- Win rate: 66.7%
+
+Gujarat Giants:
+- Matches played: 16
+- Matches won: 4
+- Win rate: 25.0%
+
+Mumbai Indians:
+- Matches played: 19
+- Matches won: 13
+- Win rate: 68.4%
+
+Royal Challengers Bangalore:
+- Matches played: 18
+- Matches won: 8
+- Win rate: 44.4%
+
+UP Warriorz:
+- Matches played: 17
+- Matches won: 7
+- Win rate: 41.2%
+
+
+Venue Statistics:
+----------------
+Arun Jaitley Stadium:
+- Matches hosted: 9
+- Average winning margin (runs): 15.0
+- Average winning margin (wickets): 7.25
+
+Brabourne Stadium:
+- Matches hosted: 10
+- Average winning margin (runs): 34.25
+- Average winning margin (wickets): 7.14
+
+Dr DY Patil Sports Academy:
+- Matches hosted: 10
+- Average winning margin (runs): 85.67
+- Average winning margin (wickets): 6.25
+
+M Chinnaswamy Stadium:
+- Matches hosted: 11
+- Average winning margin (runs): 18.75
+- Average winning margin (wickets): 6.57
+
+
+Toss Impact:
+-----------
+Teams winning both toss and match: 21 (47.7%)
+
+Top Players:
+-----------
+Player of the Match awards:
+- H Kaur: 5 awards
+- M Kapp: 4 awards
+- GM Harris: 3 awards
+- JL Jonassen: 3 awards
+- AC Kerr: 3 awards
